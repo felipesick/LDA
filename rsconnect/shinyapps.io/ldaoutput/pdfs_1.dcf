@@ -1,0 +1,11 @@
+name: pdfs_1
+title:
+username:
+account: ldaoutput
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6543374
+bundleId: 6039280
+url: https://ldaoutput.shinyapps.io/pdfs_1/
+when: 1656068552.00763
+lastSyncTime: 1656068552.00765
